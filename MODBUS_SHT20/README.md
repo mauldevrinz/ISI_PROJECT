@@ -1,5 +1,3 @@
-Mantap — berikut aku buatin draft `README.md`-nya biar project kamu rapi dan bisa dipakai orang lain (atau buat dokumentasi tugas). Nanti tinggal disesuaikan kalau ada tambahan.
-
 ---
 
 ## 📖 README.md — Modbus SHT20 Reader via USB to RS485 (Rust)
