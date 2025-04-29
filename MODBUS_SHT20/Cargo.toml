@@ -1,0 +1,10 @@
+[package]
+name = "modbus_sht20"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+tokio-serial = "5.4.0"
+tokio-modbus = "0.5"
+
