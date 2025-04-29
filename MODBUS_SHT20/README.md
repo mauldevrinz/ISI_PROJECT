@@ -113,5 +113,3 @@ Humidity: 75.6%
 - Datasheet SHT20 Modbus RTU
 
 ---
-
-Kalau kamu mau aku bantu sekalian bikinin template project-nya sekalian (beserta file `Cargo.toml` dan struktur folder-nya), tinggal bilang aja ya bro! 🚀
