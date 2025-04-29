@@ -1,4 +1,3 @@
----
 
 ## 📖 Modbus SHT20 Reader via USB to RS485 (Rust)
 
