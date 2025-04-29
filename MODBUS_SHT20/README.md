@@ -1,6 +1,6 @@
 ---
 
-## 📖 README.md — Modbus SHT20 Reader via USB to RS485 (Rust)
+## 📖 Modbus SHT20 Reader via USB to RS485 (Rust)
 
 ### 📋 Deskripsi  
 Project ini bertujuan untuk membaca data dari sensor **SHT20 versi Modbus RTU** menggunakan USB to RS485 converter (CH340/CH341) ke komputer berbasis **Linux (Ubuntu)** dengan bahasa pemrograman **Rust**. Data suhu dan kelembaban akan ditampilkan di terminal setiap 2 detik sekali.
